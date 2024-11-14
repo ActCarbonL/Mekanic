@@ -1,0 +1,30 @@
+{
+  "perStat": {
+    "tconstruct:extra": [
+      {
+        "name": "mekanic:advancingtechnology",
+        "level": 6
+      },
+      {
+        "name": "tconstruct:sweeping_edge",
+        "level": 2
+      }
+    ],
+    "tconstruct:handle": [
+      {
+        "name": "mekanic:advancingtechnology",
+        "level": 6
+      },
+      {
+        "name": "tconstruct:sweeping_edge",
+        "level": 2
+      }
+    ],
+    "tconstruct:grip": [
+      {
+        "name": "mekanic:advancingtechnology",
+        "level": 6
+      }
+    ]
+  }
+}

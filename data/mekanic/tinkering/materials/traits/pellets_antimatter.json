@@ -1,0 +1,26 @@
+{
+  "perStat": {
+    "tconstruct:extra": [
+      {
+        "name": "mekanic:annihilation",
+        "level": 1
+      }
+    ],
+    "tconstruct:head": [
+      {
+        "name": "mekanic:annihilation",
+        "level": 2
+      }
+    ],
+    "tconstruct:handle": [
+      {
+        "name": "mekanic:annihilation",
+        "level": 1
+      },
+      {
+        "name": "mekanic:selfannihilation",
+        "level": 1
+      }
+    ]
+  }
+}

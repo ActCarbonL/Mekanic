@@ -1,0 +1,22 @@
+{
+  "modifier.mekanic": {
+    "annihilation": "#FA00FA",
+    "selfannihilation": "#FA00FA",
+    "advancingtechnology": "#00FFFF",
+    "getthetop": "#FF0000",
+    "condense": "#FF5AFF",
+    "vectorchange": "#FF5AFF"
+  },
+  "material.mekanic": {
+    "pellets_antimatter": "#FA00FA",
+    "basic_control_circuit": "#00FF00",
+    "advanced_control_circuit": "#FF5A5A",
+    "elite_control_circuit": "#0000FF",
+    "ultimate_control_circuit": "#B464B9",
+    "absolute_control_circuit": "#FFFF00",
+    "supreme_control_circuit": "#FF0000",
+    "cosmic_control_circuit": "#FF5AFF",
+    "infinite_control_circuit": "#FF5AFF"
+  }
+}
+

@@ -1,0 +1,74 @@
+{
+  "perStat": {
+    "tconstruct:extra": [
+      {
+        "name": "mekanic:advancingtechnology",
+        "level": 7
+      },
+      {
+        "name": "mekanic:getthetop",
+        "level": 1
+      },
+      {
+        "name": "tconstruct:diamond",
+        "level": 1
+      }
+    ],
+    "tconstruct:handle": [
+      {
+        "name": "mekanic:advancingtechnology",
+        "level": 7
+      },
+      {
+        "name": "mekanic:getthetop",
+        "level": 1
+      },
+      {
+        "name": "tconstruct:diamond",
+        "level": 1
+      }
+    ],
+    "tconstruct:head": [
+      {
+        "name": "mekanic:advancingtechnology",
+        "level": 7
+      },
+      {
+        "name": "mekanic:getthetop",
+        "level": 1
+      },
+      {
+        "name": "tconstruct:diamond",
+        "level": 1
+      }
+    ],
+    "tconstruct:limb": [
+      {
+        "name": "mekanic:advancingtechnology",
+        "level": 7
+      },
+      {
+        "name": "mekanic:getthetop",
+        "level": 1
+      },
+      {
+        "name": "tconstruct:diamond",
+        "level": 1
+      }
+    ],
+    "tconstruct:grip": [
+      {
+        "name": "mekanic:advancingtechnology",
+        "level": 7
+      },
+      {
+        "name": "mekanic:getthetop",
+        "level": 1
+      },
+      {
+        "name": "tconstruct:diamond",
+        "level": 1
+      }
+    ]
+  }
+}

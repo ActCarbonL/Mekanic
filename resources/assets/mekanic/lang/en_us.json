@@ -1,0 +1,62 @@
+{
+  "material.mekanic.pellets_antimatter": "Pellets Antimatter",
+  "material.mekanic.pellets_antimatter.flavor": "The final material of mekanism",
+  "material.mekanic.pellets_antimatter.encyclopedia": "Warning:We use the command /kill to ensure the self-annihilation effective,so do not try that",
+
+  "material.mekanic.basic_control_circuit": "基础控制电路",
+  "material.mekanic.basic_control_circuit.flavor": "一切的始源",
+  "material.mekanic.basic_control_circuit.encyclopedia": "一切都的始源",
+
+  "material.mekanic.advanced_control_circuit": "高级控制电路",
+  "material.mekanic.advanced_control_circuit.flavor": "高级化",
+  "material.mekanic.advanced_control_circuit.encyclopedia": "基础控制电路与灌注合金的结合",
+
+  "material.mekanic.elite_control_circuit": "精英控制电路",
+  "material.mekanic.elite_control_circuit.flavor": "精英化",
+  "material.mekanic.elite_control_circuit.encyclopedia": "高级控制电路与强化合金的结合",
+
+  "material.mekanic.ultimate_control_circuit": "终极控制电路",
+  "material.mekanic.ultimate_control_circuit.flavor": "原版的极限",
+  "material.mekanic.ultimate_control_circuit.encyclopedia": "原版的极限",
+
+  "material.mekanic.absolute_control_circuit": "绝对控制电路",
+  "material.mekanic.absolute_control_circuit.flavor": "突破极限",
+  "material.mekanic.absolute_control_circuit.encyclopedia": "以烁金粹其体",
+
+  "material.mekanic.supreme_control_circuit": "最高控制电路",
+  "material.mekanic.supreme_control_circuit.flavor": "精进不止",
+  "material.mekanic.supreme_control_circuit.encyclopedia": "以赤砂锐其思",
+
+  "material.mekanic.cosmic_control_circuit": "宇宙控制电路",
+  "material.mekanic.cosmic_control_circuit.flavor": "半步至尊",
+  "material.mekanic.cosmic_control_circuit.encyclopedia": "以金刚锻其砺",
+
+  "material.mekanic.infinite_control_circuit": "无穷控制电路",
+  "material.mekanic.infinite_control_circuit.flavor": "巅峰！",
+  "material.mekanic.infinite_control_circuit.encyclopedia": "精进已极",
+
+  "modifier.mekanic.annihilation": "Annihilation！",
+  "modifier.mekanic.annihilation.flavor": "E=mc^2!",
+  "modifier.mekanic.annihilation.description": "When your tool consumes durability, it costs a fixed 1% of the maximum durability, and in return, its mining speed has an increase of 20×[attribute level] and deals an additional 5000×[attribute level] magical damage for every 1 durability lost when used as a weapon",
+
+  "modifier.mekanic.selfannihilation": "Self-annihilation",
+  "modifier.mekanic.selfannihilation.flavor": "Why are you doing this?",
+  "modifier.mekanic.selfannihilation.description": "Each time you use your tool you will annihilate yourself as the result of exposed to antimatter directly,which leads to the death",
+
+  "modifier.mekanic.getthetop": "登顶！",
+  "modifier.mekanic.getthetop.flavor": "终于！",
+  "modifier.mekanic.getthetop.description":"历经千辛万苦，你终于打破了电路板的桎梏！你可以用电路板做顶端部件了！",
+
+  "modifier.mekanic.advancingtechnology": "精进进行时",
+  "modifier.mekanic.advancingtechnology.flavor": "无限进步！",
+  "modifier.mekanic.advancingtechnology.description": "随着你工具材料的精进，你的工具获得更多能力与属性提升！\nLV.1优化：每级增加全属性10%\nLV.2人体工程学：使用武器时，给予等级为[属性等级÷2]下取整的力量与急迫（上限为三级）\nLV.4高精尖技术：每四级增加一个额外强化槽\nLV.8迭代进化：每次使用工具累计一次迭代，每次迭代提高1%攻击力与1%挖掘速度",
+
+  "modifier.mekanic.vectorchange": "矢量操作",
+  "modifier.mekanic.vectorchange.flavor": "一方通行",
+  "modifier.mekanic.vectorchange.description":"工具在手时，你拥有飞行的能力且飞行时的挖掘速度不受影响，与此同时你免疫一切弹射物伤害\n \n 已知bug1：当装备有飞仙升级的盔甲时，手持该强化的工具并卸下带有其升级的盔甲会导致无限的飞行权限（不过你都有飞仙了这也就无所谓了吧......）\n已知bug2:手持该有该强化的工具同时装备飞仙盔甲会使飞仙升级无效\n    解决方法：在未手持该强化工具时卸除并重装飞仙盔甲后重新手持刷新工具 \n（另：我知道成因，但我不知道怎么改,制作组大大求救一手（成因见lang））",
+  "_comment": "出现原因为为了存储在装备工具前是否可以飞行，我在工具内部定义了一个NBT标签，他能存储装备前的允许状态并在丢弃工具以及检测是否停止飞行时发挥作用，但这个NBT只在工具调用OnEquiped函数时更新否则会受到强化本身的影响，这使得当手持时其无法检测到盔甲的更新",
+
+  "modifier.mekanic.condense": "物质聚合",
+  "modifier.mekanic.condense.flavor": "无中生有",
+  "modifier.mekanic.condense.description":"在顶尖算力的支持下，你终于逆向了原子分解机的原理，你的工具能以空气为原料空气修补自身。\n工具在物品栏内时，每秒回复[属性等级]×1%最大耐久（至少为20）点耐久值"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item":"mekaevolution:absolute_control_circuit"
+  },
+  "value": 1,
+  "needed": 1,
+  "material": "mekanic:absolute_control_circuit"
+}

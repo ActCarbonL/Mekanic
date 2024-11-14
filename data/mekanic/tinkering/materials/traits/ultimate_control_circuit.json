@@ -1,0 +1,22 @@
+{
+  "perStat": {
+    "tconstruct:extra": [
+      {
+        "name": "mekanic:advancingtechnology",
+        "level": 4
+      }
+    ],
+    "tconstruct:handle": [
+      {
+        "name": "mekanic:advancingtechnology",
+        "level": 4
+      }
+    ],
+    "tconstruct:grip": [
+      {
+        "name": "mekanic:advancingtechnology",
+        "level": 4
+      }
+    ]
+  }
+}

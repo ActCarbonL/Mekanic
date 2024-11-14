@@ -1,0 +1,16 @@
+{
+  "stats": {
+    "tconstruct:extra": {},
+    "tconstruct:handle": {
+      "durability": 1.2,
+      "miningSpeed": 1.4,
+      "attackSpeed": 1.4,
+      "attackDamage": 1.4
+    },
+    "tconstruct:grip": {
+      "durability": 1.2,
+      "accuracy": 0.4,
+      "meleeAttack": 1.1
+    }
+  }
+}
